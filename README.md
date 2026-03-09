@@ -1,7 +1,7 @@
-# Praxis ERP
+# Fractaw ERP
 
 <p align="center">
-  <strong>ERP moderno para distribuidoras.</strong><br>
+  <strong>ERP moderno para depósitos de bebidas.</strong><br>
   Gestão de pedidos, logística e e-commerce em uma única plataforma.
 </p>
 
@@ -15,16 +15,16 @@
 
 # Sobre o Projeto
 
-**Praxis ERP** é uma plataforma **SaaS de gestão para distribuidoras de pequeno porte**, focada em simplificar operações e automatizar o fluxo completo de:
+**Fractaw ERP** é uma plataforma **SaaS de gestão para depósitos de bebida de pequeno e médio porte**, focada em simplificar operações e automatizar o fluxo completo de:
 
 **Venda → Separação → Entrega → Cobrança**
 
-Diferente dos ERPs tradicionais, o Praxis foi projetado para ser:
+Diferente dos ERPs tradicionais, o Fractaw foi projetado para ser:
 
-* simples
-* rápido
-* acessível
-* moderno
+* Simples
+* Rápido
+* Acessível
+* Moderno
 
 A plataforma integra **ERP, logística e e-commerce B2B em um único sistema**.
 
@@ -44,7 +44,7 @@ Soluções como ERPs corporativos geralmente são pesadas para pequenas distribu
 
 # Solução
 
-O Praxis oferece:
+O Fractaw oferece:
 
 **ERP + Ecommerce + Logística + Automação**
 
@@ -52,7 +52,7 @@ Tudo integrado em uma única plataforma.
 
 Objetivo:
 
-> Permitir que pequenas distribuidoras vendam mais, entreguem mais rápido e reduzam custos operacionais.
+> Permitir que depósitos de bebidas vendam mais, entreguem mais rápido e reduzam custos operacionais.
 
 ---
 
@@ -60,55 +60,55 @@ Objetivo:
 
 ## Gestão de Pedidos
 
-* criação e controle de pedidos
-* histórico de vendas
-* status de pedidos
-* integração com estoque
+* Criação e controle de pedidos
+* Histórico de vendas
+* Status de pedidos
+* Integração com estoque
 
 ---
 
 ## Estoque
 
-* controle simples de produtos
-* atualização automática
-* controle de disponibilidade
+* Controle simples de produtos
+* Atualização automática
+* Controle de disponibilidade
 
 ---
 
 ## Logística
 
-* separação de mercadorias
-* planejamento de rotas de entrega
-* controle de entregas
+* Separação de mercadorias
+* Planejamento de rotas de entrega
+* Controle de entregas
 
 ---
 
 ## Comercial
 
-* cadastro de clientes
-* vendedores externos
-* histórico de compras
+* Cadastro de clientes
+* Vendedores externos
+* Histórico de compras
 
 ---
 
 ## Financeiro
 
-* controle de cobranças
-* pagamentos
-* financeiro básico
+* Controle de cobranças
+* Pagamentos
+* Financeiro básico
 
 ---
 
-# Aplicativo para Motoristas
+# Adicional <br> Aplicativo para Motoristas 
 
 O sistema inclui suporte para um aplicativo de entregadores.
 
 Funcionalidades:
 
-* lista de entregas
-* confirmação de entrega
-* assinatura do cliente
-* foto da entrega
+* Lista de entregas
+* Confirmação de entrega
+* Assinatura do cliente
+* Foto da entrega
 
 Isso garante **rastreabilidade e segurança nas entregas**.
 
@@ -119,39 +119,36 @@ Isso garante **rastreabilidade e segurança nas entregas**.
 A plataforma será integrada com:
 
 * WhatsApp
-* marketplaces
-* transportadoras
-* gateways de pagamento
-* sistemas contábeis
+* Gateways de pagamento
 
 ---
 
 # MVP (Minimum Viable Product)
 
-A primeira versão do Praxis inclui:
+A primeira versão do Fractaw inclui:
 
-* cadastro de produtos
-* controle de estoque
-* pedidos
-* clientes
-* rotas de entrega
-* e-commerce B2B
-* financeiro básico
+* Cadastro de produtos
+* Controle de estoque
+* Pedidos
+* Clientes
+* Rotas de entrega
+* E-commerce B2B
+* Financeiro básico
 
-Esse conjunto cobre **a maior parte das necessidades de distribuidoras pequenas**.
+Esse conjunto cobre **a maior parte das necessidades de depósitos de bebidas pequenos e médios**.
 
 ---
 
 # Experiência do Usuário
 
-O Praxis foi projetado com foco em **simplicidade e produtividade**.
+O Fractaw foi projetado com foco em **simplicidade e produtividade**.
 
 Características da interface:
 
 * UX limpa
-* poucos cliques para executar tarefas
-* dashboard claro
-* onboarding simples
+* Poucos cliques para executar tarefas
+* Dashboard claro
+* Onboarding simples
 
 Objetivo:
 
@@ -177,33 +174,35 @@ Frontend
 Infraestrutura
 
 * API REST
-* arquitetura headless
+* Arquitetura headless
 * SaaS multi-tenant
 
 ---
 
 ## Fase 1 — MVP
 
-* produtos
-* clientes
-* pedidos
-* estoque
-* financeiro básico
+* Produtos
+* Clientes
+* Pedidos
+* Estoque
+* Financeiro básico
 
 ## Fase 2 — Logística
 
-* rotas de entrega
-* gestão de entregas
-* app para motoristas
+* Rotas de entrega
+* Gestão de entregas
+* App para motoristas
 
 ## Fase 3 — Expansão
 
-* automações
+* Automações
+* App de motorista
 * BI e relatórios avançados
-* integrações externas
+* Integrações externas
+* Expansão para outros ramos empresariais.
 
 ---
 
-# Praxis
+# Fractaw
 
 **ERP moderno para distribuidoras.**
