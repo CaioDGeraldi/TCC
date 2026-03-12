@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-blue">
-  <img src="https://img.shields.io/badge/backend-Django-green">
-  <img src="https://img.shields.io/badge/frontend-React-blue">
+  <img src="https://img.shields.io/badge/framework-Django-green">
+
 </p>
 
 ---
